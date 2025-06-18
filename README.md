@@ -20,13 +20,13 @@ NumBlast is a fast-paced number shooter game where quick thinking and accuracy a
 ✪ Features
  Dynamic bubble generation with random numbers
 
- Real-time scoring system
+ ➺ Real-time scoring system
 
- Timer-based gameplay loop
+ ➺ Timer-based gameplay loop
 
- Game over screen with restart option
+ ➺ Game over screen with restart option
 
- Simple, clean UI
+ ➺ Simple, clean UI
 
 ---
 
