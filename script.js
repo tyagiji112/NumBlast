@@ -5,9 +5,9 @@ const score = document.querySelector("#score");
 const bubbleContainer = document.querySelector(".bubbleContainer");
 
 //initial variables
-const originalTime = 4;
+const originalTime = 10;
 let finalScore = 0;
-let leftTime = 4;
+let leftTime = 10;
 let bubbleCount = 100;
 
 //      creating a function to have a random number :
